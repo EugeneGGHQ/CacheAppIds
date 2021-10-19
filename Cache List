@@ -3,6 +3,7 @@
 #CS:S      240
 #Dota 2    570
 #Factorio  427520
+#GTAV      271590
 #GMod      4000
 #GWYF      431240
 #HL2       220
@@ -21,7 +22,7 @@
 #Valheim   892970
 #Wreckfest 228380
 
-./lancache-autofill steam:queue-app 945360 730 240 570 427520 4000 431240 220 380 420 500 550 400 620 578080 359550 252950 252490 105600 13230 892970 228380 --windows=true
+./lancache-autofill steam:queue-app 945360 730 240 570 427520 4000 431240 220 380 420 500 550 400 620 578080 359550 252950 252490 105600 13230 892970 228380 271590 --windows=true
 
 ./lancache-autofill steam:show-queue
 
