@@ -1,0 +1,33 @@
+#Black Mesa 362890
+#Dota 2    570
+#Everybody's Gone to the Rapture 417880
+#F1 2021  1134570
+#Factorio  427520
+#Final Fantasy VI 1173820
+#GWYF      431240
+#HL2       220
+#HL2 Ep1   380
+#HL2 Ep2   420
+#L.A. Noire 110800
+#L4D1      500
+#L4D2      550
+#Outer Wilds  753640
+#Portal    400
+#Portal 2  620
+#RLeague   252950
+#Return of the Obra Dinn
+#Stardew Valley
+#Terraria  105600
+#Trackmania Nations Forever
+#UT2k4     13230
+#Valheim   892970
+#Webbed 1390350
+#Wreckfest 228380
+
+./lancache-autofill steam:queue-app 400 1173820 570 431240 220 380 420 500 550 620 252950 105600 13230 892970 228380 110800 362890 1134570 417880 1390350
+
+./lancache-autofill steam:show-queue
+
+./lancache-autofill steam:authorise-account
+
+./lancache-autofill steam:start-downloading
